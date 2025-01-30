@@ -6,3 +6,4 @@ const laptop = {
 laptop.color = "blue";
 
 console.log(laptop);
+"brand:Dell,
