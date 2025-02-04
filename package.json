@@ -1,14 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
-  },
-  "private": true,
-  "dependencies": {
-    "jest": "^29.7.0",
-    "prompt-sync": "^4.2.0"
   }
 }
